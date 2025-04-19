@@ -1,0 +1,1 @@
+console.log('Hub Agentes de IA iniciado.');

@@ -7,7 +7,7 @@ body {
   padding: 0;
 }
 header {
-  background: #000;
+  background-color: #000;
   padding: 20px;
   text-align: center;
   border-bottom: 1px solid #00ffee;
@@ -19,12 +19,23 @@ header {
 main {
   padding: 30px;
 }
-footer {
+h2 {
+  color: #00ffee;
+}
+section {
+  margin-bottom: 50px;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  background-color: #1c1c1c;
   padding: 20px;
-  text-align: center;
-  font-size: 12px;
-  color: #aaa;
-  border-top: 1px solid #00ffee44;
+  border: 1px solid #00ffee88;
+  border-radius: 10px;
+  width: 280px;
 }
 a {
   color: #00ffee;
@@ -32,4 +43,17 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+.btn {
+  background-color: #00ffee22;
+  padding: 10px 20px;
+  border: 1px solid #00ffee;
+  border-radius: 5px;
+  display: inline-block;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 12px;
+  border-top: 1px solid #00ffee44;
 }

@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Função para renderizar a lista de arquivos
     function renderFiles(filter = '') {
-      // Limpa a lista atual
+      // Limpa a lista atual.
       fileList.innerHTML = '';
       // Filtra arquivos por nome ou autor e adiciona ao DOM
       files

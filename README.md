@@ -21,6 +21,7 @@ agentes-ia-hub/
 ├── requirements.txt     # Dependências Python
 └── README.md            # Documentação do projeto
 ```
+.gitignore demais pastas rs 
 
 ---
 
@@ -62,8 +63,7 @@ python src/main.py
 |---|---|---|
 | Izaque Liborio | Integrador e Agente Principal.| 🔄 |
 | Igor Araujo Mattos | Métodos Elaborados. | 🔄 |
-| Tadeu| Implementar a extração de texto de
-arquivos PDF. | 🔄 |
+| Tadeu| Implementar a extração de texto de arquivos PDF. | 🔄 |
 | Paula Monteiro | Salvar arquivos carregados em um local temporário.| 🔄 |
 | Márcia | Converter os dados extraídos para o formato CSV. | 🔄 |
 | Amanda | Simular o processo de upload de um arquivo. | 🔄 |

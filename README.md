@@ -21,12 +21,7 @@ agentes-ia-hub/
 ├── requirements.txt     # Dependências Python
 └── README.md            # Documentação do projeto
 ```
-.gitignore demais pastas rsrs
-```
-=======
-.gitignore demais pastas rs 
->>>>>>> 47b01e98e955ef0abe1c6cc2d6be56187c30799b
-
+#gitignore demais pastas rsrs
 ---
 
 ## ✅ Como executar localmente

@@ -21,7 +21,7 @@ agentes-ia-hub/
 ├── requirements.txt     # Dependências Python
 └── README.md            # Documentação do projeto
 ```
-.gitignore demais pastas rs 
+.gitignore demais pastas rsrs
 ```
 
 ---

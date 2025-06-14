@@ -21,13 +21,7 @@ agentes-ia-hub/
 ├── requirements.txt     # Dependências Python
 └── README.md            # Documentação do projeto
 ```
-<<<<<<< HEAD
-.gitignore demais pastas rsrs
-```
-=======
-.gitignore demais pastas rs 
->>>>>>> 47b01e98e955ef0abe1c6cc2d6be56187c30799b
-
+#gitignore demais 🗂️
 ---
 
 ## ✅ Como executar localmente
@@ -68,12 +62,7 @@ python src/main.py
 |---|---|---|
 | Izaque Liborio | Integrador e Agente Principal.| 🔄 |
 | Igor Araujo Mattos | Métodos Elaborados. | 🔄 |
-<<<<<<< HEAD
-| Tadeu| Implementar a extração de texto de
-arquivos PDF. | 🔄 |
-=======
 | Tadeu| Implementar a extração de texto de arquivos PDF. | 🔄 |
->>>>>>> 47b01e98e955ef0abe1c6cc2d6be56187c30799b
 | Paula Monteiro | Salvar arquivos carregados em um local temporário.| 🔄 |
 | Márcia | Converter os dados extraídos para o formato CSV. | 🔄 |
 | Amanda | Simular o processo de upload de um arquivo. | 🔄 |
@@ -119,9 +108,5 @@ Projeto com fins educacionais para estudo de agentes de IA com dados estruturado
 Licença: MIT
 
 ---
-
-<<<<<<< HEAD
-Colabore, faça fork ou abra issues para contribuir!
+👉Colabore, faça fork ou abra issues para contribuir!
 =======
-Colabore, faça fork ou abra issues para contribuir!
->>>>>>> 47b01e98e955ef0abe1c6cc2d6be56187c30799b

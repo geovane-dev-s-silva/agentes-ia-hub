@@ -1,4 +1,4 @@
-""""
+"""
 Histórico de Versões:
 ----------------------------
 v1.0 (2023-10-15): Implementação inicial (nota_fiscal, boleto) 
@@ -43,4 +43,4 @@ Verificação Final:
 4.2 Casos edge cobertos (nomes híbridos)
 
 4.3 Documentação completa para manutenção
-""""
+"""

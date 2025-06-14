@@ -22,6 +22,8 @@ agentes-ia-hub/
 └── README.md            # Documentação do projeto
 ```
 .gitignore demais pastas rs 
+```
+
 ---
 
 ## ✅ Como executar localmente
